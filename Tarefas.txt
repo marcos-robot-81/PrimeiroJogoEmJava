@@ -1,0 +1,9 @@
+[X]Criação de uma classe chamada inter.
+[x]Criação de uma classe chamada pesonagem.
+[x]Criação de uma  classe chamada mobs, dentro dela agrecivo, pasifico e um vemdedo.
+[ ]as clase Pesonage, Mobs, e NPC devem ter os atributos ATK, DEF, AGILIDADE, hpMax, Hp, ManaMax, Mana, xp, level  e Estancias[tipo int][tempo int ][valor floart]   .
+[ ]Cria NPC, mobs e um pesonagem.
+[ ]crie uma tela de cria pesonagem.
+[ ]fasa com que eles lotem em um sistema de rodadas.
+[ ]cria um sistema de opção para fazer um que o pesonagem ande pela masmora, foresata... celecionado pelo teminal.
+[ ]

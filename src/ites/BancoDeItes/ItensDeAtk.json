@@ -1,0 +1,12 @@
+[
+  {"nomeIten": "Espada da fagulha do forgo", "tipo": "atk", "atkBatkBonos": 10 },
+  {"nomeIten": "Espada de gelo", "tipo":"atk", "atkBatkBonos": 5 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 },
+  {"nomeIten": "", "tipo":"", "atkBatkBonos": 0 }
+]
