@@ -3,14 +3,10 @@ package ites.BancoDeItes;
 import ites.Iten;
 import ites.itesATK.ItenDeATK;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
-import static java.lang.System.*;
 
 public class BancoItes {
     public BancoItes() {
